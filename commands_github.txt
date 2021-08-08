@@ -1,0 +1,19 @@
+git init
+ 1981  git config --global user.name "hardiksuhag"
+ 1982  git config --global user.email "hardiksuhag@outlook.com"
+ 1983  git config --global color.ui true
+ 1984  git config --global core.editor emacs
+ 1985  git commit -m "first commit"
+ 1986  git status
+ 1987  git statud
+ 1988  git status
+ 1989  git add vector.cpp
+ 1990  git status
+ 1991  git branch -M main
+ 1992  git status
+ 1993  git branch -M main
+ 1994  git commit -m "first commit"
+ 1995  git status
+ 1996  git branch -M main
+ 1997  git remote add origin https://github.com/hardiksuhag/mystl.git
+ 1998  git push -u origin main
